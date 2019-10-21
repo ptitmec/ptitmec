@@ -1,0 +1,12 @@
+var nom;
+var note;
+var note2;
+var note3;
+nom=prompt("entrer votre nom");
+note=prompt("entrer votre note de labo");
+note2=prompt("entrer votre note de mi session");
+note3=prompt("entrer votre note de fin de session");
+alert(nom);
+alert("votre note labo "+ note+ "%");
+alert("votre note mi session "+ note2+"%");
+alert("votre note fin de session "+ note3+"%");

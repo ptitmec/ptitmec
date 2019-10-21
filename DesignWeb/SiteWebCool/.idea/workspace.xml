@@ -20,16 +20,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1QTQ6FdhtALEu4xP7NJItYfdMNr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\William\Documents\GitHub\ptitmec\DesignWeb\SiteWebCool\img" />
+      <recent name="C:\Users\William\Documents\GitHub\ptitmec\DesignWeb\SiteWebCool\css" />
       <recent name="C:\Users\William\PhpstormProjects\SiteWebCool\img" />
       <recent name="C:\Users\William\PhpstormProjects\SiteWebCool" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\William\Documents\GitHub\ptitmec\DesignWeb\SiteWebCool\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -55,10 +65,30 @@
       <option name="presentableId" value="Default" />
       <updated>1567791928287</updated>
       <workItem from="1567791929847" duration="4279000" />
+      <workItem from="1568140239766" duration="1992000" />
+      <workItem from="1568222146407" duration="178000" />
+      <workItem from="1568290759249" duration="6307000" />
+      <workItem from="1568308732757" duration="30000" />
+      <workItem from="1568395125477" duration="6177000" />
+      <workItem from="1568636594466" duration="1215000" />
+      <workItem from="1570815387044" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,0 +1,37 @@
+html,body { margin:0; height:100%;}
+
+
+
+.bg{
+    height: 1749px;
+    background-image:  url() ;
+}
+.rouge{ background-color: red;
+
+
+
+
+}
+.orange{ background-color: orangered;
+
+
+
+}
+hr{
+    background-color: black;
+    max-width: 100px ;
+    border-width: 5px;
+}
+.parallax {
+    /* L’image du Parallax */
+    background-image: url(../img/city_sun_sunset_143693_1920x1080.jpg);
+
+    /* L’hauteur du Parallax */
+    min-height: 500px;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

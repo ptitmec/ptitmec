@@ -1,0 +1,20 @@
+.bg{
+    height: 1749px;
+    background-image:  url(../img/CHICKEN.jpg) ;
+}
+.rouge{ background-color: red;
+
+
+
+
+}
+.orange{ background-color: orangered;
+
+
+
+}
+hr{
+    background-color: black;
+    max-width: 100px ;
+    border-width: 5px;
+}

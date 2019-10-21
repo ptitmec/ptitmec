@@ -1,0 +1,16 @@
+var article1;
+var article2;
+var article3;
+var laDate;
+var reçus;
+var tpstpq;
+article1=Number(prompt("entrer le prix du premier article"));
+article2=Number(prompt("entrer le prix du deuxieme article"));
+article3=Number(prompt("entrer le prix du troisieme article"));
+laDate = prompt("entrer le nom de la date");
+reçus= (article1 + article2 + article3);
+tpstpq= (reçus*0.15);
+reçus=(reçus*1.15);
+alert ("votre reçus "+reçus);
+alert ("les taxe "+tpstpq);
+alert ("la date "+laDate);

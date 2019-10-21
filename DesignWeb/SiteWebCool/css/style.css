@@ -1,4 +1,66 @@
 .bg{
     height: 1749px;
-    background-image: url("../img/Nitro-7_AN715-51_01.jpg") ;
+    background-image:  url(../img/GRASS.jpg) ;
+}
+.rouge{ background-color: red;
+
+
+
+
+}
+.orange{ background-color: orangered;
+
+
+
+}
+hr{
+    background-color: black;
+    max-width: 100px ;
+    border-width: 5px;
+}
+.fa-frog{
+    font-size: 200px;
+    color: green;
+}
+.fa-kiwi-bird{
+    font-size: 200px;
+    color: darkorange;
+}
+.fa-dog{
+    font-size: 200px;
+    color: brown;
+}
+.fa-crow{
+    color: black;
+    font-size: 200px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
